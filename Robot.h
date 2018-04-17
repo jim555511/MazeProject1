@@ -78,6 +78,7 @@ public:
 		}
 	}*/
 	
+	
 
 	//Functions that do stuff
 	bool Isold(int Count, int X, int Y);
@@ -85,6 +86,10 @@ public:
 	void Intersect();
 	void Dead(Maze M1);
 	void SetCurrentPoint(Maze Maze1);
+	
+	vector<Point> GetOldP(){
+		return oldP;
+	}
 
 
 private:
