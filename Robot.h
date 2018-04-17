@@ -3,7 +3,6 @@
 
 #include "Point.h"
 #include "Maze.h"
-#include "Intersection.h"
 #include <vector>
 #include <string>
 #include <iostream>
