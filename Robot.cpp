@@ -1,7 +1,6 @@
 #include "Maze.h"
 #include "Point.h"
 #include "Robot.h"
-#include "Intersection.h"
 
 #include <vector>
 #include <string>
