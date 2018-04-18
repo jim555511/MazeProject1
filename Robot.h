@@ -16,6 +16,7 @@ public:
 		CP.setY(0);
 		CP.setX(2);
 		oldP.push_back(CP);
+		TempC = 0;
 
 	}
 	Robot(Point P1) {
